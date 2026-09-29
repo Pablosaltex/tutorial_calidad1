@@ -8,6 +8,8 @@ public class holamundo {
 		
 		String name = "PABLO";
 		System.out.println("HOLA"+name);
+		
+		System.out.println("Nodo1");
 	}
 	
 	
