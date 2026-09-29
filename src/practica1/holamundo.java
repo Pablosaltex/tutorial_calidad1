@@ -4,12 +4,9 @@ public class holamundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hola mundo");
+		System.out.println("nodo 2");
 		
-		String name = "PABLO";
-		System.out.println("HOLA"+name);
 		
-		System.out.println("Nodo1");
 	}
 	
 	
